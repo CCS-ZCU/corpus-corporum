@@ -1,0 +1,2850 @@
+[
+  {
+    "work_id": "8368",
+    "sent_id": 0,
+    "sent_text": "Juramentum",
+    "token_data": [
+      {
+        "token_text": "Juramentum",
+        "lemma": "iuramentum",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;1",
+          "sent_n": "1"
+        },
+        "char_start": 0,
+        "char_end": 10
+      }
+    ]
+  },
+  {
+    "work_id": "8368",
+    "sent_id": 1,
+    "sent_text": "In nomine Domini Dei Salvatoris nostri Jesu Christi imperante domino Leone Magno imperatore anno 7 post consulatum ejus sed et Constantini Magni imperatoris ejus filii anno 4 indictione 6 Promitto ego Bonifacius Dei gratia episcopus tibi beate Petre apostolorum princeps vicarioque tuo beato Gregorio papae et successoribus ejus per Patrem et Filium et Spiritum sanctum Trinitatem inseparabilem et hoc sacratissimum corpus tuum me omnem fidem et puritatem sanctae fidei catholicae exhibere et in unitate ejusdem fidei Deo operante persistere in quo omnis Christianorum salus esse sine dubio comprobatur nullo modo me contra unitatem communis et universalis Ecclesiae suadente quopiam consentire sed ut dixi fidem et puritatem meam atque concursum tibi et utilitatibus tuae Ecclesiae cui a Domino Deo potestas ligandi solvendique data est et praedicto vicario tuo atque successoribus ejus per omnia exhibere",
+    "token_data": [
+      {
+        "token_text": "In",
+        "lemma": "in",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 0,
+        "char_end": 2
+      },
+      {
+        "token_text": "nomine",
+        "lemma": "nomen",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 3,
+        "char_end": 9
+      },
+      {
+        "token_text": "Domini",
+        "lemma": "dominus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 10,
+        "char_end": 16
+      },
+      {
+        "token_text": "Dei",
+        "lemma": "Deus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 17,
+        "char_end": 20
+      },
+      {
+        "token_text": "Salvatoris",
+        "lemma": "saluator",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 21,
+        "char_end": 31
+      },
+      {
+        "token_text": "nostri",
+        "lemma": "noster",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 32,
+        "char_end": 38
+      },
+      {
+        "token_text": "Jesu",
+        "lemma": "Jesus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 39,
+        "char_end": 43
+      },
+      {
+        "token_text": "Christi",
+        "lemma": "Christus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 44,
+        "char_end": 51
+      },
+      {
+        "token_text": "imperante",
+        "lemma": "impero",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 52,
+        "char_end": 61
+      },
+      {
+        "token_text": "domino",
+        "lemma": "dominus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 62,
+        "char_end": 68
+      },
+      {
+        "token_text": "Leone",
+        "lemma": "Leo",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 69,
+        "char_end": 74
+      },
+      {
+        "token_text": "Magno",
+        "lemma": "magnus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 75,
+        "char_end": 80
+      },
+      {
+        "token_text": "imperatore",
+        "lemma": "imperator",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 81,
+        "char_end": 91
+      },
+      {
+        "token_text": "anno",
+        "lemma": "annus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 92,
+        "char_end": 96
+      },
+      {
+        "token_text": "7",
+        "lemma": "@card@",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 97,
+        "char_end": 98
+      },
+      {
+        "token_text": "post",
+        "lemma": "post",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 99,
+        "char_end": 103
+      },
+      {
+        "token_text": "consulatum",
+        "lemma": "consulatus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 104,
+        "char_end": 114
+      },
+      {
+        "token_text": "ejus",
+        "lemma": "is",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 115,
+        "char_end": 119
+      },
+      {
+        "token_text": "sed",
+        "lemma": "sed",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 120,
+        "char_end": 123
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 124,
+        "char_end": 126
+      },
+      {
+        "token_text": "Constantini",
+        "lemma": "Constantinus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 127,
+        "char_end": 138
+      },
+      {
+        "token_text": "Magni",
+        "lemma": "magnus",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 139,
+        "char_end": 144
+      },
+      {
+        "token_text": "imperatoris",
+        "lemma": "imperator",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 145,
+        "char_end": 156
+      },
+      {
+        "token_text": "ejus",
+        "lemma": "is",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 157,
+        "char_end": 161
+      },
+      {
+        "token_text": "filii",
+        "lemma": "filius",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 162,
+        "char_end": 167
+      },
+      {
+        "token_text": "anno",
+        "lemma": "annus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 168,
+        "char_end": 172
+      },
+      {
+        "token_text": "4",
+        "lemma": "@card@",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 173,
+        "char_end": 174
+      },
+      {
+        "token_text": "indictione",
+        "lemma": "indictio",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 175,
+        "char_end": 185
+      },
+      {
+        "token_text": "6",
+        "lemma": "@card@",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 186,
+        "char_end": 187
+      },
+      {
+        "token_text": "Promitto",
+        "lemma": "promitto",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 188,
+        "char_end": 196
+      },
+      {
+        "token_text": "ego",
+        "lemma": "ego",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 197,
+        "char_end": 200
+      },
+      {
+        "token_text": "Bonifacius",
+        "lemma": "bonifacius",
+        "pos": "PROPN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 201,
+        "char_end": 211
+      },
+      {
+        "token_text": "Dei",
+        "lemma": "Deus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 212,
+        "char_end": 215
+      },
+      {
+        "token_text": "gratia",
+        "lemma": "gratia",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 216,
+        "char_end": 222
+      },
+      {
+        "token_text": "episcopus",
+        "lemma": "episcopus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 223,
+        "char_end": 232
+      },
+      {
+        "token_text": "tibi",
+        "lemma": "tu",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 233,
+        "char_end": 237
+      },
+      {
+        "token_text": "beate",
+        "lemma": "beatus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 238,
+        "char_end": 243
+      },
+      {
+        "token_text": "Petre",
+        "lemma": "Petrus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 244,
+        "char_end": 249
+      },
+      {
+        "token_text": "apostolorum",
+        "lemma": "apostolus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 250,
+        "char_end": 261
+      },
+      {
+        "token_text": "princeps",
+        "lemma": "princeps",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 262,
+        "char_end": 270
+      },
+      {
+        "token_text": "vicarioque",
+        "lemma": "uicarioque",
+        "pos": "X",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 271,
+        "char_end": 281
+      },
+      {
+        "token_text": "tuo",
+        "lemma": "tuus",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 282,
+        "char_end": 285
+      },
+      {
+        "token_text": "beato",
+        "lemma": "beatus",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 286,
+        "char_end": 291
+      },
+      {
+        "token_text": "Gregorio",
+        "lemma": "Gregorius",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 292,
+        "char_end": 300
+      },
+      {
+        "token_text": "papae",
+        "lemma": "Papa",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 301,
+        "char_end": 306
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 307,
+        "char_end": 309
+      },
+      {
+        "token_text": "successoribus",
+        "lemma": "successor",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 310,
+        "char_end": 323
+      },
+      {
+        "token_text": "ejus",
+        "lemma": "is",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 324,
+        "char_end": 328
+      },
+      {
+        "token_text": "per",
+        "lemma": "per",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 329,
+        "char_end": 332
+      },
+      {
+        "token_text": "Patrem",
+        "lemma": "pater",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 333,
+        "char_end": 339
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 340,
+        "char_end": 342
+      },
+      {
+        "token_text": "Filium",
+        "lemma": "filia",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 343,
+        "char_end": 349
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 350,
+        "char_end": 352
+      },
+      {
+        "token_text": "Spiritum",
+        "lemma": "Spiritum",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 353,
+        "char_end": 361
+      },
+      {
+        "token_text": "sanctum",
+        "lemma": "sanctus",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 362,
+        "char_end": 369
+      },
+      {
+        "token_text": "Trinitatem",
+        "lemma": "Trinitas",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 370,
+        "char_end": 380
+      },
+      {
+        "token_text": "inseparabilem",
+        "lemma": "inseparabilis",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 381,
+        "char_end": 394
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 395,
+        "char_end": 397
+      },
+      {
+        "token_text": "hoc",
+        "lemma": "hic",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 398,
+        "char_end": 401
+      },
+      {
+        "token_text": "sacratissimum",
+        "lemma": "sacer",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 402,
+        "char_end": 415
+      },
+      {
+        "token_text": "corpus",
+        "lemma": "corpus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 416,
+        "char_end": 422
+      },
+      {
+        "token_text": "tuum",
+        "lemma": "tuus",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 423,
+        "char_end": 427
+      },
+      {
+        "token_text": "me",
+        "lemma": "ego",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 428,
+        "char_end": 430
+      },
+      {
+        "token_text": "omnem",
+        "lemma": "omnis",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 431,
+        "char_end": 436
+      },
+      {
+        "token_text": "fidem",
+        "lemma": "fides",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 437,
+        "char_end": 442
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 443,
+        "char_end": 445
+      },
+      {
+        "token_text": "puritatem",
+        "lemma": "puritas",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 446,
+        "char_end": 455
+      },
+      {
+        "token_text": "sanctae",
+        "lemma": "sancio",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 456,
+        "char_end": 463
+      },
+      {
+        "token_text": "fidei",
+        "lemma": "fides",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 464,
+        "char_end": 469
+      },
+      {
+        "token_text": "catholicae",
+        "lemma": "catholicus",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 470,
+        "char_end": 480
+      },
+      {
+        "token_text": "exhibere",
+        "lemma": "exhibeo",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 481,
+        "char_end": 489
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 490,
+        "char_end": 492
+      },
+      {
+        "token_text": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 493,
+        "char_end": 495
+      },
+      {
+        "token_text": "unitate",
+        "lemma": "unitas",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 496,
+        "char_end": 503
+      },
+      {
+        "token_text": "ejusdem",
+        "lemma": "idem",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 504,
+        "char_end": 511
+      },
+      {
+        "token_text": "fidei",
+        "lemma": "fides",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 512,
+        "char_end": 517
+      },
+      {
+        "token_text": "Deo",
+        "lemma": "Deus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 518,
+        "char_end": 521
+      },
+      {
+        "token_text": "operante",
+        "lemma": "opero",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 522,
+        "char_end": 530
+      },
+      {
+        "token_text": "persistere",
+        "lemma": "persisto",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 531,
+        "char_end": 541
+      },
+      {
+        "token_text": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 542,
+        "char_end": 544
+      },
+      {
+        "token_text": "quo",
+        "lemma": "qui",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 545,
+        "char_end": 548
+      },
+      {
+        "token_text": "omnis",
+        "lemma": "omnis",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 549,
+        "char_end": 554
+      },
+      {
+        "token_text": "Christianorum",
+        "lemma": "Christianus",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 555,
+        "char_end": 568
+      },
+      {
+        "token_text": "salus",
+        "lemma": "salus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 569,
+        "char_end": 574
+      },
+      {
+        "token_text": "esse",
+        "lemma": "sum",
+        "pos": "X",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 575,
+        "char_end": 579
+      },
+      {
+        "token_text": "sine",
+        "lemma": "sine",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 580,
+        "char_end": 584
+      },
+      {
+        "token_text": "dubio",
+        "lemma": "dubius",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 585,
+        "char_end": 590
+      },
+      {
+        "token_text": "comprobatur",
+        "lemma": "comprobo",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 591,
+        "char_end": 602
+      },
+      {
+        "token_text": "nullo",
+        "lemma": "nullus",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 603,
+        "char_end": 608
+      },
+      {
+        "token_text": "modo",
+        "lemma": "modus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 609,
+        "char_end": 613
+      },
+      {
+        "token_text": "me",
+        "lemma": "ego",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 614,
+        "char_end": 616
+      },
+      {
+        "token_text": "contra",
+        "lemma": "contra",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 617,
+        "char_end": 623
+      },
+      {
+        "token_text": "unitatem",
+        "lemma": "unitas",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 624,
+        "char_end": 632
+      },
+      {
+        "token_text": "communis",
+        "lemma": "communis",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 633,
+        "char_end": 641
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 642,
+        "char_end": 644
+      },
+      {
+        "token_text": "universalis",
+        "lemma": "uniuersalis",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 645,
+        "char_end": 656
+      },
+      {
+        "token_text": "Ecclesiae",
+        "lemma": "ecclesia",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 657,
+        "char_end": 666
+      },
+      {
+        "token_text": "suadente",
+        "lemma": "suadeo",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 667,
+        "char_end": 675
+      },
+      {
+        "token_text": "quopiam",
+        "lemma": "quopiam",
+        "pos": "ADV",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 676,
+        "char_end": 683
+      },
+      {
+        "token_text": "consentire",
+        "lemma": "consentio",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 684,
+        "char_end": 694
+      },
+      {
+        "token_text": "sed",
+        "lemma": "sed",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 695,
+        "char_end": 698
+      },
+      {
+        "token_text": "ut",
+        "lemma": "ut",
+        "pos": "SCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 699,
+        "char_end": 701
+      },
+      {
+        "token_text": "dixi",
+        "lemma": "dico",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 702,
+        "char_end": 706
+      },
+      {
+        "token_text": "fidem",
+        "lemma": "fides",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 707,
+        "char_end": 712
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 713,
+        "char_end": 715
+      },
+      {
+        "token_text": "puritatem",
+        "lemma": "puritas",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 716,
+        "char_end": 725
+      },
+      {
+        "token_text": "meam",
+        "lemma": "meus",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 726,
+        "char_end": 730
+      },
+      {
+        "token_text": "atque",
+        "lemma": "atque",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 731,
+        "char_end": 736
+      },
+      {
+        "token_text": "concursum",
+        "lemma": "-",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 737,
+        "char_end": 746
+      },
+      {
+        "token_text": "tibi",
+        "lemma": "tu",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 747,
+        "char_end": 751
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 752,
+        "char_end": 754
+      },
+      {
+        "token_text": "utilitatibus",
+        "lemma": "utilitas",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 755,
+        "char_end": 767
+      },
+      {
+        "token_text": "tuae",
+        "lemma": "tuus",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 768,
+        "char_end": 772
+      },
+      {
+        "token_text": "Ecclesiae",
+        "lemma": "ecclesia",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 773,
+        "char_end": 782
+      },
+      {
+        "token_text": "cui",
+        "lemma": "qui",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 783,
+        "char_end": 786
+      },
+      {
+        "token_text": "a",
+        "lemma": "a",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 787,
+        "char_end": 788
+      },
+      {
+        "token_text": "Domino",
+        "lemma": "dominus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 789,
+        "char_end": 795
+      },
+      {
+        "token_text": "Deo",
+        "lemma": "Deus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 796,
+        "char_end": 799
+      },
+      {
+        "token_text": "potestas",
+        "lemma": "potestas",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 800,
+        "char_end": 808
+      },
+      {
+        "token_text": "ligandi",
+        "lemma": "ligo",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 809,
+        "char_end": 816
+      },
+      {
+        "token_text": "solvendique",
+        "lemma": "soluendique",
+        "pos": "X",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 817,
+        "char_end": 828
+      },
+      {
+        "token_text": "data",
+        "lemma": "do",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 829,
+        "char_end": 833
+      },
+      {
+        "token_text": "est",
+        "lemma": "sum",
+        "pos": "X",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 834,
+        "char_end": 837
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 838,
+        "char_end": 840
+      },
+      {
+        "token_text": "praedicto",
+        "lemma": "praedico",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 841,
+        "char_end": 850
+      },
+      {
+        "token_text": "vicario",
+        "lemma": "uicarius",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 851,
+        "char_end": 858
+      },
+      {
+        "token_text": "tuo",
+        "lemma": "tuus",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 859,
+        "char_end": 862
+      },
+      {
+        "token_text": "atque",
+        "lemma": "atque",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 863,
+        "char_end": 868
+      },
+      {
+        "token_text": "successoribus",
+        "lemma": "successor",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 869,
+        "char_end": 882
+      },
+      {
+        "token_text": "ejus",
+        "lemma": "is",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 883,
+        "char_end": 887
+      },
+      {
+        "token_text": "per",
+        "lemma": "per",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 888,
+        "char_end": 891
+      },
+      {
+        "token_text": "omnia",
+        "lemma": "omnis",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 892,
+        "char_end": 897
+      },
+      {
+        "token_text": "exhibere",
+        "lemma": "exhibeo",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "1"
+        },
+        "char_start": 898,
+        "char_end": 906
+      }
+    ]
+  },
+  {
+    "work_id": "8368",
+    "sent_id": 2,
+    "sent_text": "Sed et si cognovero antistites contra instituta antiqua sanctorum Patrum conversari cum eis nullam habere communionem aut conjunctionem sed magis si valuero prohibere prohibeam si minus hoc fideliter statim Domino meo apostolico renuntiabo",
+    "token_data": [
+      {
+        "token_text": "Sed",
+        "lemma": "sed",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 0,
+        "char_end": 3
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 4,
+        "char_end": 6
+      },
+      {
+        "token_text": "si",
+        "lemma": "si",
+        "pos": "SCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 7,
+        "char_end": 9
+      },
+      {
+        "token_text": "cognovero",
+        "lemma": "cognosco",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 10,
+        "char_end": 19
+      },
+      {
+        "token_text": "antistites",
+        "lemma": "antistes",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 20,
+        "char_end": 30
+      },
+      {
+        "token_text": "contra",
+        "lemma": "contra",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 31,
+        "char_end": 37
+      },
+      {
+        "token_text": "instituta",
+        "lemma": "institutum",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 38,
+        "char_end": 47
+      },
+      {
+        "token_text": "antiqua",
+        "lemma": "antiquus",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 48,
+        "char_end": 55
+      },
+      {
+        "token_text": "sanctorum",
+        "lemma": "sanctor",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 56,
+        "char_end": 65
+      },
+      {
+        "token_text": "Patrum",
+        "lemma": "pater",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 66,
+        "char_end": 72
+      },
+      {
+        "token_text": "conversari",
+        "lemma": "conuerso",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 73,
+        "char_end": 83
+      },
+      {
+        "token_text": "cum",
+        "lemma": "cum",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 84,
+        "char_end": 87
+      },
+      {
+        "token_text": "eis",
+        "lemma": "is",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 88,
+        "char_end": 91
+      },
+      {
+        "token_text": "nullam",
+        "lemma": "nullus",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 92,
+        "char_end": 98
+      },
+      {
+        "token_text": "habere",
+        "lemma": "habeo",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 99,
+        "char_end": 105
+      },
+      {
+        "token_text": "communionem",
+        "lemma": "communio",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 106,
+        "char_end": 117
+      },
+      {
+        "token_text": "aut",
+        "lemma": "aut",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 118,
+        "char_end": 121
+      },
+      {
+        "token_text": "conjunctionem",
+        "lemma": "coniunctio",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 122,
+        "char_end": 135
+      },
+      {
+        "token_text": "sed",
+        "lemma": "sed",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 136,
+        "char_end": 139
+      },
+      {
+        "token_text": "magis",
+        "lemma": "magis",
+        "pos": "ADV",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 140,
+        "char_end": 145
+      },
+      {
+        "token_text": "si",
+        "lemma": "si",
+        "pos": "SCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 146,
+        "char_end": 148
+      },
+      {
+        "token_text": "valuero",
+        "lemma": "ualeo",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 149,
+        "char_end": 156
+      },
+      {
+        "token_text": "prohibere",
+        "lemma": "prohibeo",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 157,
+        "char_end": 166
+      },
+      {
+        "token_text": "prohibeam",
+        "lemma": "prohibeo",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 167,
+        "char_end": 176
+      },
+      {
+        "token_text": "si",
+        "lemma": "si",
+        "pos": "SCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 177,
+        "char_end": 179
+      },
+      {
+        "token_text": "minus",
+        "lemma": "minus",
+        "pos": "ADV",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 180,
+        "char_end": 185
+      },
+      {
+        "token_text": "hoc",
+        "lemma": "hic",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 186,
+        "char_end": 189
+      },
+      {
+        "token_text": "fideliter",
+        "lemma": "fideliter",
+        "pos": "ADV",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 190,
+        "char_end": 199
+      },
+      {
+        "token_text": "statim",
+        "lemma": "statim",
+        "pos": "ADV",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 200,
+        "char_end": 206
+      },
+      {
+        "token_text": "Domino",
+        "lemma": "dominus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 207,
+        "char_end": 213
+      },
+      {
+        "token_text": "meo",
+        "lemma": "meus",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 214,
+        "char_end": 217
+      },
+      {
+        "token_text": "apostolico",
+        "lemma": "apostolicus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 218,
+        "char_end": 228
+      },
+      {
+        "token_text": "renuntiabo",
+        "lemma": "renuntio",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "2"
+        },
+        "char_start": 229,
+        "char_end": 239
+      }
+    ]
+  },
+  {
+    "work_id": "8368",
+    "sent_id": 3,
+    "sent_text": "Quod si quod absit contra hujus professionis meae seriem aliquid facere quolibet modo seu ingenio vel occasione tentavero reus inveniar in aeterno judicio ultionem Ananiae et Saphirae incurram qui vobis etiam de rebus propriis fraudem facere praesumpsit hoc autem indiculum sacramenti ego Bonifacius exiguus episcopus manu propria scripsi atque ponens supra sacratissimum corpus sancti Petri ita ut praescriptum Deo teste et judice feci sacramentum quod et conservare promitto",
+    "token_data": [
+      {
+        "token_text": "Quod",
+        "lemma": "qui",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 0,
+        "char_end": 4
+      },
+      {
+        "token_text": "si",
+        "lemma": "si",
+        "pos": "SCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 5,
+        "char_end": 7
+      },
+      {
+        "token_text": "quod",
+        "lemma": "qui",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 8,
+        "char_end": 12
+      },
+      {
+        "token_text": "absit",
+        "lemma": "absum",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 13,
+        "char_end": 18
+      },
+      {
+        "token_text": "contra",
+        "lemma": "contra",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 19,
+        "char_end": 25
+      },
+      {
+        "token_text": "hujus",
+        "lemma": "hic",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 26,
+        "char_end": 31
+      },
+      {
+        "token_text": "professionis",
+        "lemma": "professio",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 32,
+        "char_end": 44
+      },
+      {
+        "token_text": "meae",
+        "lemma": "meus",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 45,
+        "char_end": 49
+      },
+      {
+        "token_text": "seriem",
+        "lemma": "series",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 50,
+        "char_end": 56
+      },
+      {
+        "token_text": "aliquid",
+        "lemma": "aliquis",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 57,
+        "char_end": 64
+      },
+      {
+        "token_text": "facere",
+        "lemma": "facio",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 65,
+        "char_end": 71
+      },
+      {
+        "token_text": "quolibet",
+        "lemma": "quolibet",
+        "pos": "ADV",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 72,
+        "char_end": 80
+      },
+      {
+        "token_text": "modo",
+        "lemma": "modus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 81,
+        "char_end": 85
+      },
+      {
+        "token_text": "seu",
+        "lemma": "seu",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 86,
+        "char_end": 89
+      },
+      {
+        "token_text": "ingenio",
+        "lemma": "ingenium",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 90,
+        "char_end": 97
+      },
+      {
+        "token_text": "vel",
+        "lemma": "uel",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 98,
+        "char_end": 101
+      },
+      {
+        "token_text": "occasione",
+        "lemma": "occasio",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 102,
+        "char_end": 111
+      },
+      {
+        "token_text": "tentavero",
+        "lemma": "tento",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 112,
+        "char_end": 121
+      },
+      {
+        "token_text": "reus",
+        "lemma": "reus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 122,
+        "char_end": 126
+      },
+      {
+        "token_text": "inveniar",
+        "lemma": "inuenio",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 127,
+        "char_end": 135
+      },
+      {
+        "token_text": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 136,
+        "char_end": 138
+      },
+      {
+        "token_text": "aeterno",
+        "lemma": "aeternus",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 139,
+        "char_end": 146
+      },
+      {
+        "token_text": "judicio",
+        "lemma": "iudicium",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 147,
+        "char_end": 154
+      },
+      {
+        "token_text": "ultionem",
+        "lemma": "ultio",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 155,
+        "char_end": 163
+      },
+      {
+        "token_text": "Ananiae",
+        "lemma": "ananiae",
+        "pos": "PROPN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 164,
+        "char_end": 171
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 172,
+        "char_end": 174
+      },
+      {
+        "token_text": "Saphirae",
+        "lemma": "saphirae",
+        "pos": "PROPN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 175,
+        "char_end": 183
+      },
+      {
+        "token_text": "incurram",
+        "lemma": "incurro",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 184,
+        "char_end": 192
+      },
+      {
+        "token_text": "qui",
+        "lemma": "qui",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 193,
+        "char_end": 196
+      },
+      {
+        "token_text": "vobis",
+        "lemma": "uos",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 197,
+        "char_end": 202
+      },
+      {
+        "token_text": "etiam",
+        "lemma": "etiam",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 203,
+        "char_end": 208
+      },
+      {
+        "token_text": "de",
+        "lemma": "de",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 209,
+        "char_end": 211
+      },
+      {
+        "token_text": "rebus",
+        "lemma": "res",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 212,
+        "char_end": 217
+      },
+      {
+        "token_text": "propriis",
+        "lemma": "proprius",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 218,
+        "char_end": 226
+      },
+      {
+        "token_text": "fraudem",
+        "lemma": "fraus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 227,
+        "char_end": 234
+      },
+      {
+        "token_text": "facere",
+        "lemma": "facio",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 235,
+        "char_end": 241
+      },
+      {
+        "token_text": "praesumpsit",
+        "lemma": "praesumo",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 242,
+        "char_end": 253
+      },
+      {
+        "token_text": "hoc",
+        "lemma": "hic",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 254,
+        "char_end": 257
+      },
+      {
+        "token_text": "autem",
+        "lemma": "autem",
+        "pos": "ADV",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 258,
+        "char_end": 263
+      },
+      {
+        "token_text": "indiculum",
+        "lemma": "indiculum",
+        "pos": "X",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 264,
+        "char_end": 273
+      },
+      {
+        "token_text": "sacramenti",
+        "lemma": "sacramentum",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 274,
+        "char_end": 284
+      },
+      {
+        "token_text": "ego",
+        "lemma": "ego",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 285,
+        "char_end": 288
+      },
+      {
+        "token_text": "Bonifacius",
+        "lemma": "bonifacius",
+        "pos": "PROPN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 289,
+        "char_end": 299
+      },
+      {
+        "token_text": "exiguus",
+        "lemma": "exiguus",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 300,
+        "char_end": 307
+      },
+      {
+        "token_text": "episcopus",
+        "lemma": "episcopus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 308,
+        "char_end": 317
+      },
+      {
+        "token_text": "manu",
+        "lemma": "manus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 318,
+        "char_end": 322
+      },
+      {
+        "token_text": "propria",
+        "lemma": "proprius",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 323,
+        "char_end": 330
+      },
+      {
+        "token_text": "scripsi",
+        "lemma": "scribo",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 331,
+        "char_end": 338
+      },
+      {
+        "token_text": "atque",
+        "lemma": "atque",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 339,
+        "char_end": 344
+      },
+      {
+        "token_text": "ponens",
+        "lemma": "pono",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 345,
+        "char_end": 351
+      },
+      {
+        "token_text": "supra",
+        "lemma": "supra",
+        "pos": "ADP",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 352,
+        "char_end": 357
+      },
+      {
+        "token_text": "sacratissimum",
+        "lemma": "sacer",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 358,
+        "char_end": 371
+      },
+      {
+        "token_text": "corpus",
+        "lemma": "corpus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 372,
+        "char_end": 378
+      },
+      {
+        "token_text": "sancti",
+        "lemma": "sanctus",
+        "pos": "ADJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 379,
+        "char_end": 385
+      },
+      {
+        "token_text": "Petri",
+        "lemma": "Petrus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 386,
+        "char_end": 391
+      },
+      {
+        "token_text": "ita",
+        "lemma": "ita",
+        "pos": "ADV",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 392,
+        "char_end": 395
+      },
+      {
+        "token_text": "ut",
+        "lemma": "ut",
+        "pos": "SCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 396,
+        "char_end": 398
+      },
+      {
+        "token_text": "praescriptum",
+        "lemma": "-",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 399,
+        "char_end": 411
+      },
+      {
+        "token_text": "Deo",
+        "lemma": "Deus",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 412,
+        "char_end": 415
+      },
+      {
+        "token_text": "teste",
+        "lemma": "testis",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 416,
+        "char_end": 421
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 422,
+        "char_end": 424
+      },
+      {
+        "token_text": "judice",
+        "lemma": "iudex",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 425,
+        "char_end": 431
+      },
+      {
+        "token_text": "feci",
+        "lemma": "facio",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 432,
+        "char_end": 436
+      },
+      {
+        "token_text": "sacramentum",
+        "lemma": "sacramentum",
+        "pos": "NOUN",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 437,
+        "char_end": 448
+      },
+      {
+        "token_text": "quod",
+        "lemma": "qui",
+        "pos": "PRON",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 449,
+        "char_end": 453
+      },
+      {
+        "token_text": "et",
+        "lemma": "et",
+        "pos": "CCONJ",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 454,
+        "char_end": 456
+      },
+      {
+        "token_text": "conservare",
+        "lemma": "conseruo",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 457,
+        "char_end": 467
+      },
+      {
+        "token_text": "promitto",
+        "lemma": "promitto",
+        "pos": "VERB",
+        "ref": {
+          "div_pid": "8368:1",
+          "parent_pid": "8368:1;2",
+          "sent_n": "3"
+        },
+        "char_start": 468,
+        "char_end": 476
+      }
+    ]
+  }
+]
